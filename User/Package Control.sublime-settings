@@ -1,0 +1,10 @@
+{
+	"installed_packages":
+	[
+		"Gist",
+		"Http Requester",
+		"Package Control",
+		"Python Auto-Complete",
+		"SublimeLinter"
+	]
+}
